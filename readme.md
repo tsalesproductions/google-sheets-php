@@ -29,5 +29,5 @@ define("sheet_range_find", 'A6:F999');
 ```
 1. Após trocar os dados, rode uma vez o index.php e confira se irá funcionar corretamente.
 
-### Licença
+###Licença
 MIT
